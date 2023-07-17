@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0"
+  xmlns:media="http://search.yahoo.com/mrss/" 
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  >
+  
+  <channel>
+    <title>呓语DreamLand</title>
+    <link>https://02chloe.github.io/</link>
+    <language>zh-cn</language>
+    <itunes:subtitle>02呓语</itunes:subtitle>
+    <itunes:author>02</itunes:author>
+    <!-- <itunes:author>02</itunes:author> -->
+    <!-- <itunes:author>1234</itunes:author> -->
+    <itunes:summary>02的呓语DreamLand: https://02chloe.github.io/  Please take care of ourselves! 成长是最美的行为艺术!欢迎访问我的播客:万岁万万岁 https://wanwansui.github.io/</itunes:summary>
+    <itunes:owner>
+      <itunes:name>02</itunes:name>
+      <!-- <itunes:name>02</itunes:name> -->
+      <!-- <itunes:name>1234</itunes:name> -->
+      <itunes:email>xechloe@outlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://wanwansui.github.io/medias/yiyu.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category> 
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category> 
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:keywords>个人成长,自我认知,行为艺术,生活拓展</itunes:keywords>
+    
+    <atom:link href="https://02chloe.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>
+个人网站: https://02chloe.github.io  
+播客网站: https://wanwansui.github.io/</description>
+    
+    <pubDate>Sun, 16 Jul 2023 15:02:51 GMT</pubDate>
+    <generator>https://wanwansui.github.io/friends/</generator>
+    
+    <item>
+      <title>A00</title>
+      <link>https://02chloe.github.io/2023/07/16/a00/</link>
+      <guid>https://02chloe.github.io/2023/07/16/a00/</guid>
+      <itunes:author>02 &amp; 1234</itunes:author>
+      <itunes:author>02</itunes:author>
+      <itunes:author>1234</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <pubDate>Sun, 16 Jul 2023 15:02:51 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</description>
+          
+        
+      
+         
+      
+      
+
+
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://02chloe.github.io/2023/07/16/a00/#disqus_thread</comments>
+      
+      
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+  </channel>
+</rss>
